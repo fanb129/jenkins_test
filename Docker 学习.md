@@ -4,15 +4,15 @@
 
 ### Docker简介
 
-<img src="C:\桌面\Docker_imgs\image-20230616091653448.png" alt="image-20230616091653448" style="zoom:67%;" />
+<img src="./Docker_imgs/image-20230616091653448.png" alt="image-20230616091653448" style="zoom:67%;" />
 
 ### 重要概念
 
-<img src="C:\桌面\Docker_imgs\image-20230616091637499.png" alt="image-20230616091637499" style="zoom:67%;" />
+<img src="./Docker_imgs/image-20230616091637499.png" alt="image-20230616091637499" style="zoom:67%;" />
 
 ### 应用
 
-<img src="C:\桌面\Docker_imgs\image-20230616091809056.png" alt="image-20230616091809056" style="zoom:67%;" />
+<img src="./Docker_imgs/image-20230616091809056.png" alt="image-20230616091809056" style="zoom:67%;" />
 
 > 梳理Docker技术
 
@@ -29,7 +29,7 @@
 
 ### Docker底层实现
 
-<img src="C:\桌面\Docker_imgs\image-20230616152034353.png" alt="image-20230616152034353" style="zoom:67%;" />
+<img src="./Docker_imgs/image-20230616152034353.png" alt="image-20230616152034353" style="zoom:67%;" />
 
 ### 个人理解
 
