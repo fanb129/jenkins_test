@@ -11,4 +11,8 @@ func main() {
     var url="Code=%d&endDate=%s"
     var target_url=fmt.Sprintf(url,stockcode,enddate)
     fmt.Println(target_url)
+
+	adsak
+	asdsa
+	1
 }
